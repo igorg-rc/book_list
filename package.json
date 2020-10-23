@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "start": "webpack-dev-server --output-public-path=/build/",
-    "json-server": "json-server --watch api/data.json"
   },
-  "author": "Brad Traversy",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
